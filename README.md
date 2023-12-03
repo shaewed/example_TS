@@ -1,5 +1,3 @@
-# example_TS
-TypeScript examples code
 # TypeScript Geometric Shapes Example
 
 This TypeScript example demonstrates a simple class hierarchy representing geometric shapes, including rectangles and circles. It calculates individual areas and the total area for an array of shapes.
