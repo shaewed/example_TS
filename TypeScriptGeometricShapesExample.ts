@@ -1,5 +1,3 @@
-// Example TypeScript code with a more complex class hierarchy
-
 // Base class for geometric shapes
 abstract class Shape {
     abstract getArea(): number;
